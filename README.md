@@ -3,7 +3,7 @@
 
 # Usage
 - Choose username and password and the RDP port.
-- Set your ngrok's key
+- Set your Ngrok's key
 - Run RDPerciRock.bat on victim
 - Connect to victim with the username&password created using the Ngrok's url
 
