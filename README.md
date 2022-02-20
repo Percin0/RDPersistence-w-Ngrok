@@ -16,3 +16,6 @@ RDPerciRock.bat will ask for admin's privileges, when it obtain that it will run
 
 # Disclaimer
 Only for analysis do not use without authorization. Only for educational purpose.
+
+# Contact
+If you want to help me with any suggestions please contact me to percin0@protonmail.com :)
