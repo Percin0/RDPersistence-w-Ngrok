@@ -64,7 +64,7 @@ powershell -command  "./termsrv_rdp_patch.ps1"
 
 cd C:\Windows\System32
 powershell -command  "Invoke-WebRequest -Uri https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip"
-powershell.exe -command "Expand-Archive -Force 'C:\Windows\System32\ngrok.zip' 'C:\Windows\System32\ngrok'"
+powershell -command "Expand-Archive -Force 'C:\Windows\System32\ngrok.zip' 'C:\Windows\System32\ngrok'"
 
 cd C:\Windows\System32\ngrok
 ngrok.exe authtoken %ngrok_token% 
