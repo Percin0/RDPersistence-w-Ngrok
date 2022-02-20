@@ -5,7 +5,7 @@ title RDPerci :)
 set new_user="Percin0"
 set new_password="Password123!"
 set new_port="8888"
-set ngrok_token="25NpLslhfFAoMpeMarBdWpnyeFq_7EwExzE7hCvJtwvNnZydJ"
+set ngrok_token=""
 
 net session >nul 2>&1
 if %errorLevel% == 0 (
