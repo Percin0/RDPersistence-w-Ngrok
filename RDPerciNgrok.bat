@@ -1,6 +1,6 @@
 @echo on
 
-title RDPerciRock :)
+title RDPerciNgrok :)
 
 set new_user="Percin0"
 set new_password="Password123!"
